@@ -2,7 +2,7 @@
 #### .NET Developer
 Merhaba ben Cemal Gökalp Yılmaz Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.  Aktif olarak kendimi .NET platformunda geliştirmekteyim. Şu anda kendimi geliştiriyorum  ve bireysel projeler üretiyorum. 
 
-Skills: C# / ASP.NET Core/ SQL / ANGULAR / Python /   
+Skills: C# / ASP.NET Core/ SQL  / Python /   
 
 - 🔭 I’m currently working on Traversel Reservation 
 - 🌱 I’m currently learning ASP.NET Core 
