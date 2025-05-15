@@ -1,11 +1,11 @@
 ### Hi there 👋, Cemal Gökalp Yılmaz
 #### .NET Developer
-Merhaba ben Cemal Gökalp Yılmaz Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.  Aktif olarak kendimi .NET platformunda geliştirmekteyim. Şu anda kendimi geliştiriyorum  ve bireysel projeler üretiyorum. 
+Merhaba ben Cemal Gökalp Yılmaz Yönetim Bilişim Sistemleri bölümü mezunuyum.  Aktif olarak kendimi .NET platformunda geliştirmekteyim. Şu anda kendimi geliştiriyorum  ve bireysel projeler üretiyorum. 
 
-Skills: C# / ASP.NET Core/ SQL  / Python /   
+Skills: C# / ASP.NET Core/ SQL  / Python / Entity Framework / Angular / Ajax / OOP / Design Patterns / Fluent Validation / SignalR / Redis / RabbitMQ  
 
-- 🔭 I’m currently working on Traversel Reservation 
-- 🌱 I’m currently learning ASP.NET Core 
+- 🔭 I’m currently working on CarBook 
+- 🌱 I’m currently learning Onion Architecture,CQRS,MediatR 
 - 💬 Ask me about gokalpyilmaz2401@gmail.com 
 - 📫 How to reach me: https://gokalpyilmaz.com/ 
 
